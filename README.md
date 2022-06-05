@@ -7,7 +7,9 @@
 **Backup Menggunakan Perintah SQL**
 
 Masuk kedalam database
-![1](https://user-images.githubusercontent.com/101665497/172037719-a1fdbcce-1b0b-41dc-8cd3-44857424edb4.png
+![1](https://user-images.githubusercontent.com/101665497/172038150-df17e6af-3017-448c-aca9-f664c9c5c16b.png)
+
+
 
 Lakukan proses penguncian table
 ![2](https://user-images.githubusercontent.com/101665497/172037759-f4a96302-17c8-44d7-a254-0f6b1d1ba761.png)
