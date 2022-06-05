@@ -7,7 +7,10 @@
 **Backup Menggunakan Perintah SQL**
 
 Masuk kedalam database
+
+
 ![1](https://user-images.githubusercontent.com/101665497/172038150-df17e6af-3017-448c-aca9-f664c9c5c16b.png)
+
 
 
 
